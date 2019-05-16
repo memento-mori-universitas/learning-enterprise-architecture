@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-enterprise-architecture
+
+about:
+  title: Learning Enterprise Architecture
+  description: Best practices to design enterprise software
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
